@@ -12,7 +12,7 @@
          <children>
             <ImageView fitHeight="480.0" fitWidth="640.0">
                <image>
-                  <Image url="@../assets/SplashScreen/SplashScreen@2x.png" />
+                  <Image url="@../assets/SplashScreen@2x.png" />
                </image>
             </ImageView>
          </children>
